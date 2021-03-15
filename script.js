@@ -66,3 +66,6 @@ showMyDB();
 writeYourGenres();
 
 console.log(personalMovieDB);
+
+
+console.log('Bayrambek')
